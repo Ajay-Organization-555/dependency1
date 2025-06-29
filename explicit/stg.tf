@@ -1,3 +1,8 @@
+# explicit ki koi story likho short me
+# badiya wali
+
+
+
 resource "azurerm_storage_account" "stgexp1" {
   depends_on = [ azurerm_resource_group.RGEXP ]
   name                     = "stgname1"
